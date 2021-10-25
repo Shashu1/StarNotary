@@ -6,4 +6,4 @@ Node v14.17.3
 Web3.js v1.5.2
 OPenZeplin used : "version": "4.3.2"
 
-4. Token Address: 
+4. Token Address: 0x1f43ec66eb9672909b17507a66e07caf1770640a586b355e5aa56fa3b63fd5be
